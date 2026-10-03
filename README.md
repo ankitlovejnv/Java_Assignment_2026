@@ -22,11 +22,11 @@ As he continues learning and practicing, he realizes that article writing can be
 
 S.No.	Name	                        ENROLLMENT NUMBER
 
-1\.	ANKIT CHAUDHARY (TEAM LEADER)	GGV/24/15306
+1\.	ANKIT CHAUDHARY (TEAM LEADER)	 GGV/24/15306
 
 2\.	KESHARI NANDAN MALIK	        GGV/24/15325
 
-3\.	DHANANJAY THAKUR	        GGV/24/15320
+3\.	DHANANJAY THAKUR	            GGV/24/15320
 
 4\.	SACHIN KUMAR	                GGV/24/15341
 
